@@ -1,6 +1,10 @@
-/*Httml Title Attiribute  Içerisinde tr Olanları Seçer*/
+/*Httml Title Attiribute Olanların Tamamını Seçer*/
+span {
+    background-color: yellow;
+}
 
-span[title] {
+/*Httml Title Attiribute  Içerisinde tr Olanları Seçer*/
+span[title="tr"] {
 
     background-color: pink;
 }
