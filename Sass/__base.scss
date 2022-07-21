@@ -3,8 +3,14 @@ span {
     background-color: yellow;
 }
 
-/*Httml Title Attiribute  Içerisinde tr Olanları Seçer*/
+/*Httml Title Attiribute tr'ye eşit Olanları Seçer*/
 span[title="tr"] {
 
     background-color: pink;
+}
+
+/*Tüm Title Attiribute  Içerisinde ww Olanları Seçer*/
+span[title~="ww"] {
+
+    background-color: rgb(6, 255, 26);
 }
