@@ -14,3 +14,9 @@ span[title~="ww"] {
 
     background-color: rgb(6, 255, 26);
 }
+
+/*Tüm Title Attiribute  k İle Başlayanları Seçer*/
+span[title^="k"] {
+
+    background-color: coral;
+}
