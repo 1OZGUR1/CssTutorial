@@ -20,3 +20,15 @@ span[title^="k"] {
 
     background-color: coral;
 }
+
+/*Tüm Title Attiribute içerisinde h İle Bitenleri Seçer*/
+span[title$="h"] {
+
+    background-color: aquamarine;
+}
+
+/*Tüm Title Attiribute içerisinde h İçerenleri Seçer*/
+span[title*="q"] {
+
+    background-color: purple;
+}

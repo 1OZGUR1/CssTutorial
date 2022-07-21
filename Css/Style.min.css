@@ -1,1 +1,1 @@
-span{background-color:#ff0}span[title=tr]{background-color:pink}span[title~=ww]{background-color:#06ff1a}span[title^=k]{background-color:coral}/*# sourceMappingURL=Style.min.css.map */
+span{background-color:#ff0}span[title=tr]{background-color:pink}span[title~=ww]{background-color:#06ff1a}span[title^=k]{background-color:coral}span[title$=h]{background-color:#7fffd4}span[title*=q]{background-color:purple}/*# sourceMappingURL=Style.min.css.map */
