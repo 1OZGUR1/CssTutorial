@@ -1,13 +1,9 @@
 @mixin mx-font {
-    font-size: 2rem;
+    font-size: 1.25rem;
     font-family: 'Verdana';
     // text-align: center;
     margin: 0.25rem;
-    line-height: 1.5;
+    line-height: 2.5;
     color: black;
-    background-color: gray;
-}
-
-span {
-    background-color: deepskyblue;
+    // background-color: rgb(211, 174, 174);
 }
